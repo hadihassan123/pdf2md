@@ -66,4 +66,9 @@ pdf2md/
 
 ## License
 
-Not specified. All rights reserved by the author unless otherwise stated.
+MIT License
+
+Copyright (c) 2026 hadi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
