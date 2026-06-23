@@ -1,16 +1,23 @@
 # pdf2md
 
-A simple CLI tool that converts PDF files into clean Markdown using MarkItDown.
+A simple and lightweight CLI tool that converts PDF files into clean Markdown using MarkItDown.
 
-## Features
+---
+
+# ⚡ Features
+
 - PDF → Markdown conversion
-- CLI interface
-- Output to file or folder
-- Auto filename generation
+- Clean CLI interface
+- Save output to file or folder
+- Auto-generated filenames
+- Lightweight and fast
 
-## Usage
+---
+
+# 📦 Installation
+
+## 1. Clone the repository
 
 ```bash
-pdf2md file.pdf
-pdf2md file.pdf -o output.md
-pdf2md file.pdf -o ./out/
+git clone https://github.com/hadihassan123/pdf2md.git
+cd pdf2md
