@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-green)
 
-A lightweight CLI tool that converts PDF files into clean Markdown using [MarkItDown](https://github.com/microsoft/markitdown)to
-reduce tokens while using LLMs 
+A lightweight CLI tool that converts PDF files into clean Markdown using [MarkItDown](https://github.com/microsoft/markitdown) to
+reduce tokens when using LLMs 
 
 ## Features
 
