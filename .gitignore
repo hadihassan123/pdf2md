@@ -1,0 +1,7 @@
+```text id="g4"
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info
