@@ -1,5 +1,8 @@
 # pdf2md
 
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Status](https://img.shields.io/badge/status-active-green)
+
 A lightweight CLI tool that converts PDF files into clean Markdown using [MarkItDown](https://github.com/microsoft/markitdown).
 
 ## Features
